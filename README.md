@@ -15,9 +15,8 @@ Minhas credenciais incluem pós gradua em Análise Instrumental Avançada, Está
 **Experiência em:** VBA, SAP e análises estatísticas
 
 **Links:**
-* [LinkedIn](https:/www.linkedin.com/in/luis-fernando-fsantos)
-* [Medium](https://www.medium.com)
-
+* [LinkedIn](https:www.linkedin.com/in/luis-fernando-fsantos)
+*
 
 ## Projetos:
 Veja os tutoriais publicados:
