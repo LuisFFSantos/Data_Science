@@ -21,6 +21,6 @@ Minhas credenciais incluem pós gradua em Análise Instrumental Avançada, Está
 ## Projetos:
 Veja os tutoriais publicados:
 
-* ** Análise de dados do Airbnb - Barcelona: ** https://github.com/LuisFFSantos/Data_Science/blob/main/%5BTemplate%5D_Analisando_os_Dados_do_Airbnb_Barcelona.ipynb
+* ** Análise de dados do Airbnb Barcelona: ** https://github.com/LuisFFSantos/Data_Science/blob/main/%5BTemplate%5D_Analisando_os_Dados_do_Airbnb_Barcelona.ipynb
 
 ---
